@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: rgb(8, 12, 255);
+}
+
+.lamarr{
+    width: 400px;
+    height: 600px;
+    border: solid 2px rgba(146, 155, 132, 0.705);
+}
+
+.foto1{
+    border-radius: 100%;
+    width: 140px;
+    height: 140px;
+}
